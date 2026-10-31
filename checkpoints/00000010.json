@@ -1,0 +1,13 @@
+{
+  "format": "eartue-ledger-checkpoint-v1",
+  "seq": 10,
+  "firstRowid": 48,
+  "lastRowid": 49,
+  "entryCount": 2,
+  "adminCount": 0,
+  "adminTotal": 0,
+  "merkleRoot": "1620c9aa83a4d57b4f96971adc6dd75a16a3bd6ee3f739c2596fff0615d57c39",
+  "prevHash": "6ee407b88a458c467a5207c3744d4f04694f5cc84bb769196f8735d93f91630d",
+  "checkpointHash": "d9240396f05f1e0f3b51a38f5058c50e987e8b0d9fdbd3ba75734f7f07bf98cf",
+  "createdAt": 1793458813
+}
